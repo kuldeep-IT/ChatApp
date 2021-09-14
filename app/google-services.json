@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "294631264045",
+    "project_id": "chat-app-1cc4c",
+    "storage_bucket": "chat-app-1cc4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294631264045:android:fc6ce0f0e28a01060a0da4",
+        "android_client_info": {
+          "package_name": "com.peerbitskuldeep.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294631264045-appavnhpu6faccnnlvitpned5v4oshrt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.peerbitskuldeep.chatapp",
+            "certificate_hash": "667fb45e872c193d1a4b2fbcc58065df764f30ba"
+          }
+        },
+        {
+          "client_id": "294631264045-08kf9j8n9g5aiblke6b1cstsiug7nbdg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACcuIfQFBIv-0IWSTiR6r5TT6yDQWX32Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294631264045-08kf9j8n9g5aiblke6b1cstsiug7nbdg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
